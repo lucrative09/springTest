@@ -290,7 +290,7 @@ $(function() {
 });//end JQuery
 </script>
 
-<!-- 댓글 처리 JS -->
+<!-- 댓글 처리 JS ----------------------------------------------------------->
 <script>
 $(function() {	
 	const boardNo = "${article.boardId}"; //원본글 번호
